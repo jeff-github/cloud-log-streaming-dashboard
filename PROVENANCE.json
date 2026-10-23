@@ -1,0 +1,10 @@
+{
+  "edition": "Curated copy with sanitized defaults and new documentation",
+  "files": [
+    {
+      "source_name": "monitor_portal_server.py",
+      "destination": "monitor_portal_server.py",
+      "original_sha256": "3f19b6fef5f08a7a3a204d5e7df4707a65171b16e1f273eec278ecf33809921e"
+    }
+  ]
+}
